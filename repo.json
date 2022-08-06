@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "Frogworks Interactive",
+    "Name": "Easy Inventory Sort",
+    "Punchline": "sort your inventory a little faster",
+    "Description": "description",
+    "InternalName": "EasySort",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "sort",
+      "plugin",
+      "inventory"
+    ],
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1659826382,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/EasySort.json",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/EasySort.json",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/EasySort.json"
+  }
+]
