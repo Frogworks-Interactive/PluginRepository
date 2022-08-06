@@ -19,7 +19,7 @@ jobs:
         id: extract_branch
       - uses: actions/checkout@v1
       - name: Run Powershell Script
-        run: .\generate-repo.ps1
+        run: .\generate.ps1
       - name: Commit files
         continue-on-error: true
         run: |
