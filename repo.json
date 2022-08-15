@@ -13,13 +13,13 @@
     ],
     "DalamudApiLevel": 6,
     "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1659826382,
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip"
+    "LastUpdated": 1660542033,
+    "DownloadCount": 2,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.2-alpha/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.2-alpha/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.2-alpha/latest.zip"
   }
 ]
