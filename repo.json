@@ -11,13 +11,13 @@
       "plugin",
       "inventory"
     ],
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
     "AssemblyVersion": "0.0.0.3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1660650117,
-    "DownloadCount": 1,
+    "DownloadCount": 3,
     "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
     "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip"
@@ -37,13 +37,13 @@
     ],
     "DalamudApiLevel": 6,
     "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
-    "AssemblyVersion": "1.0.1",
+    "AssemblyVersion": "1.0.2",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1660800020,
-    "DownloadCount": 2,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.1/latest.zip"
+    "LastUpdated": 1660815471,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip"
   }
 ]
