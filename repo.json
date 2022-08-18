@@ -16,10 +16,34 @@
     "AssemblyVersion": "0.0.0.2",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1659826382,
-    "DownloadCount": 6,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.1-alpha/latest.zip"
+    "LastUpdated": 1660650117,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip"
+  },
+  {
+    "Author": "Frogworks Interactive",
+    "Name": "OOF!",
+    "Punchline": "i love roblox!!!",
+    "Description": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
+    "InternalName": "OofPlugin",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "OOF",
+      "plugin",
+      "play",
+      "sound"
+    ],
+    "DalamudApiLevel": 6,
+    "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
+    "AssemblyVersion": "1.0.0",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1660793901,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.0/latest.zip"
   }
 ]

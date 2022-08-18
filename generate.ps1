@@ -9,7 +9,11 @@ foreach ($plugin in $pluginList) {
   $repo = $plugin.repo
   $branch = $plugin.branch
   $configFolder = $plugin.configFolder
-
+  $configName = $plugin.configName
+   # Ensure that config is converted properly.
+  if ($null -eq $configName) {
+      $configName = $configFolder
+  }
   # Fetch the release data from the Gibhub API
   $data = Invoke-WebRequest -Uri "https://api.github.com/repos/$($username)/$($repo)/releases/latest"
   $json = ConvertFrom-Json $data.content
@@ -21,7 +25,7 @@ foreach ($plugin in $pluginList) {
   $time = [Int](New-TimeSpan -Start (Get-Date "01/01/1970") -End ([DateTime]$json.published_at)).TotalSeconds
 
   # Get the config data from the repo.
-  $configData = Invoke-WebRequest -Uri "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/$($configFolder)/$($repo).json"
+  $configData = Invoke-WebRequest -Uri "https://raw.githubusercontent.com/$($username)/$($repo)/$($branch)/$($configFolder)/$($configName).json"
   $config = ConvertFrom-Json $configData.content
 
   # Ensure that config is converted properly.
