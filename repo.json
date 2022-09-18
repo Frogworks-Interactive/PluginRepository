@@ -13,14 +13,14 @@
     ],
     "DalamudApiLevel": 7,
     "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1660650117,
-    "DownloadCount": 3,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.3-alpha/latest.zip"
+    "LastUpdated": 1663471608,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip"
   },
   {
     "Author": "Frogworks Interactive",
@@ -35,15 +35,14 @@
       "play",
       "sound"
     ],
-    "DalamudApiLevel": 6,
     "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
-    "AssemblyVersion": "1.0.2",
+    "AssemblyVersion": "1.0.3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1660815471,
+    "LastUpdated": 1663471754,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip"
   }
 ]
