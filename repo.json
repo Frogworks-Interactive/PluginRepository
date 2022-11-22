@@ -17,7 +17,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1663471608,
-    "DownloadCount": 0,
+    "DownloadCount": 292,
     "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
     "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip"
@@ -39,10 +39,10 @@
     "AssemblyVersion": "1.0.3",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1663471754,
+    "LastUpdated": 1669108520,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.3/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip"
   }
 ]
