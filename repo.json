@@ -17,7 +17,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1663471608,
-    "DownloadCount": 292,
+    "DownloadCount": 295,
     "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
     "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip"
@@ -36,7 +36,7 @@
       "sound"
     ],
     "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
-    "AssemblyVersion": "1.0.3",
+    "AssemblyVersion": "1.0.4",
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1669108520,
