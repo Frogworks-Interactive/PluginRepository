@@ -4,11 +4,5 @@
     "repo": "EasySort",
     "branch": "main",
     "configFolder": "EasySort"
-  },
-  {
-    "username": "Frogworks-Interactive",
-    "repo": "OOF",
-    "branch": "main",
-    "configFolder": "OofPlugin"
   }
 ]
