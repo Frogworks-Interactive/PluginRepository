@@ -11,38 +11,15 @@
       "plugin",
       "inventory"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "RepoUrl": "https://github.com/Frogworks-Interactive/EasySort",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1663471608,
-    "DownloadCount": 295,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.4-alpha/latest.zip"
-  },
-  {
-    "Author": "Frogworks Interactive",
-    "Name": "OOF!",
-    "Punchline": "i love roblox!!!",
-    "Description": "Play the OOF! sound on fall and/or death. The Only Plugin You Need!",
-    "InternalName": "OofPlugin",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "OOF",
-      "plugin",
-      "play",
-      "sound"
-    ],
-    "RepoUrl": "https://github.com/Frogworks-Interactive/OOF",
-    "AssemblyVersion": "1.0.4",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "LastUpdated": 1669108520,
+    "LastUpdated": 1684918732,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/OOF/releases/download/1.0.4/latest.zip"
+    "DownloadLinkInstall": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Frogworks-Interactive/EasySort/releases/download/0.0.0.5-alpha/latest.zip"
   }
 ]
